@@ -15,5 +15,10 @@ I hope you enjoy playing with this project and learning about Q-learning and art
 
 https://user-images.githubusercontent.com/101405852/208601016-07e29b45-33b9-4ee9-ae12-1be5dd7feda1.mp4
 
-
 https://user-images.githubusercontent.com/101405852/208601001-89e17108-4e9d-4cd4-9f81-fc7d5d82b7c5.mp4
+
+https://user-images.githubusercontent.com/101405852/210242990-67173446-69e7-4d91-a5a9-d5fadedd3475.mp4
+
+https://user-images.githubusercontent.com/101405852/210242993-93dba2a9-578b-422f-ad0b-310c018d5b2e.mp4
+
+https://user-images.githubusercontent.com/101405852/210242997-9f871ffc-c853-455c-b677-9d841f0d4e1e.mp4
