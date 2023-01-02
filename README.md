@@ -2,7 +2,7 @@
 
 Welcome to the **GameFrozenLake-in-CSharp-with-QLearningAgent** project!
 
-In this project, I have implemented the popular game "Frozen Lake" in C# and created an AI agent that can play the game using the **Q-learning** algorithm. The game consists of a grid of tiles, some of which are safe to walk on, while others will cause the player plummet into a hole, receive damage or get reward.
+In this project, I have implemented the popular game "Frozen Lake" in C# and created an AI agent that can play the game using the **Q-learning** algorithm. The game consists of a grid of tiles, some of which are safe to walk on, while others will cause the agent to fell into a hole, receive damage or get reward.
 
 You can create your own maps and customize the rewards that the agent receives for being on certain tiles. The AI agent will learn and adapt to the environment through trial and error, improving its performance over time.
 
